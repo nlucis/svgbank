@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 380 580" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="585.487" id="Filter" width="383.192" x="-1.59584" y="-2.74334">
+<feDropShadow dx="0" dy="-0" flood-color="#000000" flood-opacity="0.790208" in="SourceGraphic" result="Shadow" stdDeviation="5.67053"/>
+</filter>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="580" width="380" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer-1" vectornator:layerName="Layer 1">
+<path d="M25.0805 11.933L354.92 11.933C361.547 11.933 366.92 17.3056 366.92 23.933L366.92 556.067C366.92 562.694 361.547 568.067 354.92 568.067L25.0805 568.067C18.4531 568.067 13.0805 562.694 13.0805 556.067L13.0805 23.933C13.0805 17.3056 18.4531 11.933 25.0805 11.933Z" fill="#000000" fill-rule="nonzero" filter="url(#Filter)" stroke="#ffe9ab" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Rectangle" vectornator:shadowAngle="-1.56298" vectornator:shadowColor="#000000" vectornator:shadowOffset="0" vectornator:shadowOpacity="0.790208" vectornator:shadowRadius="11.3411"/>
+</g>
+</svg>

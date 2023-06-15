@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 72 54" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<path d="M12.1707 5.51076L59.6845 5.51076C63.5505 5.51076 66.6845 8.64476 66.6845 12.5108L66.6845 41.5817C66.6845 45.4477 63.5505 48.5817 59.6845 48.5817L12.1707 48.5817C8.30469 48.5817 5.17068 45.4477 5.17068 41.5817L5.17068 12.5108C5.17068 8.64476 8.30469 5.51076 12.1707 5.51076Z" id="Fill"/>
+</defs>
+<g id="Icon" vectornator:layerName="Icon">
+<g opacity="1" vectornator:layerName="PTTLockedOpen">
+<path d="M12.3299 1.35958L59.6701 1.35958C65.9251 1.35958 70.9957 6.43021 70.9957 12.6852L70.9957 41.3148C70.9957 47.5698 65.9251 52.6404 59.6701 52.6404L12.3299 52.6404C6.07493 52.6404 1.00429 47.5698 1.00429 41.3148L1.00429 12.6852C1.00429 6.43021 6.07493 1.35958 12.3299 1.35958Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#ffe9ab" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.93379"/>
+<use fill="#df364c" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectangle" xlink:href="#Fill"/>
+<clipPath id="ClipPath">
+<use xlink:href="#Fill"/>
+</clipPath>
+<g clip-path="url(#ClipPath)">
+<g opacity="0">
+<path d="M-9.76411 51.7628L22.2088-1.65621" fill="none" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+<path d="M5.4756 51.7628L37.4485-1.65621" fill="none" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+<path d="M20.7153 51.7628L52.6883-1.65621" fill="none" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+<path d="M35.955 51.7628L67.928-1.65621" fill="none" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+<path d="M51.1947 51.7628L83.1677-1.65621" fill="none" opacity="1" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+</g>
+<path d="M21.1092 27.3558C21.1092 19.1509 27.7606 12.4995 35.9655 12.4995C44.1704 12.4995 50.8218 19.1509 50.8218 27.3558C50.8218 35.5606 44.1704 42.212 35.9655 42.212C27.7606 42.212 21.1092 35.5606 21.1092 27.3558Z" fill="#ffe9ab" fill-rule="nonzero" opacity="1" stroke="#282828" stroke-linecap="round" stroke-linejoin="round" stroke-width="7.72935"/>
+</g>
+</g>
+</g>
+</svg>
