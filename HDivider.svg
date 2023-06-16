@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 224.281 6.47914" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="29.0187" id="Filter" width="243.509" x="-5.52796" y="-11.2698">
+<feDropShadow dx="0" dy="-0" flood-color="#000000" flood-opacity="0.790208" in="SourceGraphic" result="Shadow" stdDeviation="5.60373"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="32.1968" id="Filter_2" width="32.1968" x="-8.70609" y="-12.8588">
+<feDropShadow dx="0" dy="-0" flood-color="#000000" flood-opacity="0.790208" in="SourceGraphic" result="Shadow" stdDeviation="5.60373"/>
+</filter>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="6.47914" width="224.281" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer-1" vectornator:layerName="Layer 1">
+<g opacity="1" vectornator:layerName="Group 1">
+<path d="M223.472 3.23957L8.98137 3.23957" fill="none" filter="url(#Filter)" stroke="#ffe9ab" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" vectornator:shadowAngle="-1.56298" vectornator:shadowColor="#000000" vectornator:shadowOffset="0" vectornator:shadowOpacity="0.790208" vectornator:shadowRadius="11.2075"/>
+<path d="M5.80324 3.23957C5.80324 4.11719 6.51469 4.82864 7.3923 4.82864C8.26992 4.82864 8.98137 4.11719 8.98137 3.23957C8.98137 2.36196 8.26992 1.65051 7.3923 1.65051C6.51469 1.65051 5.80324 2.36196 5.80324 3.23957Z" fill="#000000" fill-rule="nonzero" filter="url(#Filter_2)" stroke="#ffe9ab" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" vectornator:shadowAngle="-1.56298" vectornator:shadowColor="#000000" vectornator:shadowOffset="0" vectornator:shadowOpacity="0.790208" vectornator:shadowRadius="11.2075"/>
+</g>
+</g>
+</svg>
