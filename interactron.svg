@@ -3,10 +3,10 @@
 <!-- Created with Vectornator (http://vectornator.io/) -->
 <svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 296.043 56.4388" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
 <defs>
-<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="31.0187" id="Filter" width="219.939" x="32.9479" y="38.3505">
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="29.0187" id="Filter" width="217.939" x="33.9479" y="39.3505">
 <feDropShadow dx="0" dy="-0" flood-color="#000000" flood-opacity="0.790208" in="SourceGraphic" result="Shadow" stdDeviation="5.60373"/>
 </filter>
-<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="47.6415" id="Filter_2" width="47.5506" x="17.2955" y="20.5508">
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="47.6415" id="Filter_2" width="47.5506" x="17.2955" y="26.4688">
 <feDropShadow dx="0" dy="-0" flood-color="#000000" flood-opacity="0.790208" in="SourceGraphic" result="Shadow" stdDeviation="8.29183"/>
 </filter>
 </defs>
@@ -14,9 +14,11 @@
 <rect height="56.4388" width="296.043" x="0" y="0"/>
 </clipPath>
 <g clip-path="url(#ArtboardFrame)" id="Layer-1" vectornator:layerName="Layer 1">
-<path d="M237.377 53.8598L48.4572 53.8598" fill="none" filter="url(#Filter)" stroke="#ffe9ab" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" vectornator:shadowAngle="-1.56298" vectornator:shadowColor="#000000" vectornator:shadowOffset="0" vectornator:shadowOpacity="0.790208" vectornator:shadowRadius="11.2075"/>
-<path d="M233.596 0.926427L283.988 0.926427C290.646 0.926427 296.043 6.32387 296.043 12.9819L296.043 43.4568C296.043 50.1149 290.646 55.5123 283.988 55.5123L233.596 55.5123C226.938 55.5123 221.541 50.1149 221.541 43.4568L221.541 12.9819C221.541 6.32387 226.938 0.926427 233.596 0.926427Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="2.05842"/>
-<path d="M48.4572 53.8598L41.0708 44.3716" fill="none" opacity="1" stroke="#ffe9ab" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" vectornator:layerName="Line 1"/>
-<path d="M38.765 44.3716C38.765 45.6702 39.7973 46.7229 41.0708 46.7229C42.3443 46.7229 43.3767 45.6702 43.3767 44.3716C43.3767 43.073 42.3443 42.0203 41.0708 42.0203C39.7973 42.0203 38.765 43.073 38.765 44.3716Z" fill="#000000" fill-rule="nonzero" filter="url(#Filter_2)" stroke="#ffe9ab" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.4797" vectornator:shadowAngle="-1.56298" vectornator:shadowColor="#000000" vectornator:shadowOffset="0" vectornator:shadowOpacity="0.790208" vectornator:shadowRadius="16.5837"/>
+<path d="M237.377 53.8598L48.4572 53.8598" fill="none" filter="url(#Filter)" stroke="#ffe9ab" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" vectornator:shadowAngle="-1.56298" vectornator:shadowColor="#000000" vectornator:shadowOffset="0" vectornator:shadowOpacity="0.790208" vectornator:shadowRadius="11.2075"/>
+<path d="M232.081 45.1242C232.081 43.4674 233.424 42.1242 235.081 42.1242L241.592 42.1242C243.249 42.1242 244.592 43.4674 244.592 45.1242L244.592 50.8598C244.592 52.5167 243.249 53.8598 241.592 53.8598L235.081 53.8598C233.424 53.8598 232.081 52.5167 232.081 50.8598L232.081 45.1242Z" fill="#ffac00" fill-rule="nonzero" opacity="1" stroke="#ffe9ab" stroke-linecap="butt" stroke-linejoin="round" stroke-width="0.918343"/>
+<path d="M48.4572 53.8598L41.0708 50.2896" fill="none" opacity="1" stroke="#ffe9ab" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Line 1"/>
+<path d="M38.765 50.2896C38.765 51.5882 39.7973 52.6409 41.0708 52.6409C42.3443 52.6409 43.3767 51.5882 43.3767 50.2896C43.3767 48.9909 42.3443 47.9382 41.0708 47.9382C39.7973 47.9382 38.765 48.9909 38.765 50.2896Z" fill="#000000" fill-rule="nonzero" filter="url(#Filter_2)" stroke="#ffe9ab" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.4797" vectornator:shadowAngle="-1.56298" vectornator:shadowColor="#000000" vectornator:shadowOffset="0" vectornator:shadowOpacity="0.790208" vectornator:shadowRadius="16.5837"/>
+<path d="M4.11894 56.4388C1.84411 56.4388 1.66533e-16 54.5947 1.66533e-16 52.3198L1.66533e-16 50.0458L4.63381 50.0458L4.63381 56.4388L4.11894 56.4388Z" fill="#ffac00" fill-rule="nonzero" opacity="1" stroke="none"/>
+<path d="M285.949 14.9062L285.949 0.9375L287.043 0.9375C292.014 0.937497 296.043 4.96694 296.043 9.9375L296.043 14.9062L285.949 14.9062Z" fill="none" opacity="1" stroke="#ffac00" stroke-dasharray="0.4629467295759882,0.9258934591519764" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.552503"/>
 </g>
 </svg>
