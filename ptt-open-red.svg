@@ -8,8 +8,8 @@
 <g id="Icon" vectornator:layerName="Icon">
 <g opacity="1" vectornator:layerName="PTTLockedOpen">
 <path d="M12.3299 1.35958L59.6701 1.35958C65.9251 1.35958 70.9957 6.43021 70.9957 12.6852L70.9957 41.3148C70.9957 47.5698 65.9251 52.6404 59.6701 52.6404L12.3299 52.6404C6.07493 52.6404 1.00429 47.5698 1.00429 41.3148L1.00429 12.6852C1.00429 6.43021 6.07493 1.35958 12.3299 1.35958Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#ffe9ab" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.93379"/>
-<use fill="#df364c" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectangle" xlink:href="#Fill"/>
-<clipPath id="ClipPath">
+<use fill="#dc4c30" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectangle" xlink:href="#Fill"/>
+<clipPath clip-rule="nonzero" id="ClipPath">
 <use xlink:href="#Fill"/>
 </clipPath>
 <g clip-path="url(#ClipPath)">
