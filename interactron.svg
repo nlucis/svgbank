@@ -15,7 +15,7 @@
 <rect height="57.6368" width="390" x="0" y="0"/>
 </clipPath>
 <g clip-path="url(#ArtboardFrame)" id="Layer-1" vectornator:layerName="Layer 1">
-<path d="M6 28.1746C6 27.07 6.89543 26.1746 8 26.1746L11.2877 26.1746C12.3923 26.1746 13.2877 27.07 13.2877 28.1746L13.2877 31.4622C13.2877 32.5668 12.3923 33.4622 11.2877 33.4622L8 33.4622C6.89543 33.4622 6 32.5668 6 31.4622L6 28.1746Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="AvatarAlign"/>
+<path d="M32 29.1746C32 28.07 32.8954 27.1746 34 27.1746L37.2877 27.1746C38.3923 27.1746 39.2877 28.07 39.2877 29.1746L39.2877 32.4622C39.2877 33.5668 38.3923 34.4622 37.2877 34.4622L34 34.4622C32.8954 34.4622 32 33.5668 32 32.4622L32 29.1746Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="AvatarAlign"/>
 <g opacity="1" vectornator:layerName="ButtonAlign">
 <path d="M382.741 26.7109C383.436 26.7109 384 27.1282 384 27.643L384 27.643C384 28.1578 383.436 28.5751 382.741 28.5751L354.301 28.5751C353.606 28.5751 353.043 28.1578 353.043 27.643L353.043 27.643C353.043 27.1282 353.606 26.7109 354.301 26.7109L382.741 26.7109Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Rectangle 1"/>
 </g>
