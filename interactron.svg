@@ -15,9 +15,9 @@
 <rect height="57.6368" width="390" x="0" y="0"/>
 </clipPath>
 <g clip-path="url(#ArtboardFrame)" id="Layer-1" vectornator:layerName="Layer 1">
-<path d="M32 29.1746C32 28.07 32.8954 27.1746 34 27.1746L37.2877 27.1746C38.3923 27.1746 39.2877 28.07 39.2877 29.1746L39.2877 32.4622C39.2877 33.5668 38.3923 34.4622 37.2877 34.4622L34 34.4622C32.8954 34.4622 32 33.5668 32 32.4622L32 29.1746Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="AvatarAlign"/>
+<path d="M39 28.1746C39 27.07 39.8954 26.1746 41 26.1746L44.2877 26.1746C45.3923 26.1746 46.2877 27.07 46.2877 28.1746L46.2877 31.4622C46.2877 32.5668 45.3923 33.4622 44.2877 33.4622L41 33.4622C39.8954 33.4622 39 32.5668 39 31.4622L39 28.1746Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="AvatarAlign"/>
 <g opacity="1" vectornator:layerName="ButtonAlign">
-<path d="M382.741 26.7109C383.436 26.7109 384 27.1282 384 27.643L384 27.643C384 28.1578 383.436 28.5751 382.741 28.5751L354.301 28.5751C353.606 28.5751 353.043 28.1578 353.043 27.643L353.043 27.643C353.043 27.1282 353.606 26.7109 354.301 26.7109L382.741 26.7109Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Rectangle 1"/>
+<path d="M376.741 26.7109C377.436 26.7109 378 27.1282 378 27.643L378 27.643C378 28.1578 377.436 28.5751 376.741 28.5751L348.301 28.5751C347.606 28.5751 347.043 28.1578 347.043 27.643L347.043 27.643C347.043 27.1282 347.606 26.7109 348.301 26.7109L376.741 26.7109Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Rectangle 1"/>
 </g>
 <g opacity="0" vectornator:layerName="Group 1">
 <path d="M314.551 2.57896L361.891 2.57896C368.146 2.57896 373.217 7.6496 373.217 13.9045L373.217 42.5342C373.217 48.7892 368.146 53.8598 361.891 53.8598L314.551 53.8598C308.296 53.8598 303.225 48.7892 303.225 42.5342L303.225 13.9045C303.225 7.6496 308.296 2.57896 314.551 2.57896Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#ffe9ab" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.93379"/>
