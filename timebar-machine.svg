@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 312 24" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="36.791" id="Filter" width="325.075" x="-6.53764" y="-6.39551">
+<feDropShadow dx="0" dy="-0" flood-color="#000000" flood-opacity="0.790208" in="SourceGraphic" result="Shadow" stdDeviation="3.4815"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="18.4075" id="Filter_2" width="164.246" x="148.011" y="2.79625">
+<feDropShadow dx="0" dy="-0" flood-color="#000000" flood-opacity="0.790208" in="SourceGraphic" result="Shadow" stdDeviation="3.4815"/>
+</filter>
+<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="18.4075" id="Filter_3" width="154.979" x="2.22475" y="2.79625">
+<feDropShadow dx="0" dy="-0" flood-color="#000000" flood-opacity="0.790208" in="SourceGraphic" result="Shadow" stdDeviation="3.4815"/>
+</filter>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="24" width="312" x="0" y="0"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer-1" vectornator:layerName="Layer 1">
+<g opacity="1" vectornator:layerName="Group 2">
+<path d="M2.16611 9.07615C2.16611 5.33834 5.19621 2.30825 8.93402 2.30825L303.066 2.30825C306.804 2.30825 309.834 5.33834 309.834 9.07615L309.834 14.9238C309.834 18.6617 306.804 21.6918 303.066 21.6918L8.93402 21.6918C5.19621 21.6918 2.16611 18.6617 2.16611 14.9238L2.16611 9.07615Z" fill="#ffffff" fill-rule="nonzero" filter="url(#Filter)" stroke="none" vectornator:layerName="Rectangle 2" vectornator:shadowAngle="-1.56298" vectornator:shadowColor="#000000" vectornator:shadowOffset="0" vectornator:shadowOpacity="0.790208" vectornator:shadowRadius="6.963"/>
+<path d="M157.215 12L303.053 12" fill="none" filter="url(#Filter_2)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Line 2" vectornator:shadowAngle="-1.56298" vectornator:shadowColor="#000000" vectornator:shadowOffset="0" vectornator:shadowOpacity="0.790208" vectornator:shadowRadius="6.963"/>
+<path d="M11.4285 12L148 12" fill="none" filter="url(#Filter_3)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Line 1" vectornator:shadowAngle="-1.56298" vectornator:shadowColor="#000000" vectornator:shadowOffset="0" vectornator:shadowOpacity="0.790208" vectornator:shadowRadius="6.963"/>
+<path d="M48.6661 11.3175C48.6661 8.13123 51.249 5.54826 54.4353 5.54826L257.565 5.54826C260.751 5.54826 263.334 8.13123 263.334 11.3175L263.334 12.6825C263.334 15.8688 260.751 18.4517 257.565 18.4517L54.4353 18.4517C51.249 18.4517 48.6661 15.8688 48.6661 12.6825L48.6661 11.3175Z" fill="#000000" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Rectangle 4"/>
+<path d="M9.79179 10.0936L9.79179 10.0936C10.8447 10.0936 11.6982 10.9471 11.6982 12L11.6982 12C11.6982 13.0529 10.8447 13.9064 9.79179 13.9064L9.79179 13.9064C8.7389 13.9064 7.88536 13.0529 7.88536 12L7.88536 12C7.88536 10.9471 8.7389 10.0936 9.79179 10.0936Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1" vectornator:layerName="Rectangle 3"/>
+<path d="M303.928 10.0936L303.928 10.0936C304.981 10.0936 305.834 10.9471 305.834 12L305.834 12C305.834 13.0529 304.981 13.9064 303.928 13.9064L303.928 13.9064C302.875 13.9064 302.021 13.0529 302.021 12L302.021 12C302.021 10.9471 302.875 10.0936 303.928 10.0936Z" fill="#ffffff" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1"/>
+</g>
+<path d="M24.1593 12C24.1593 8.4368 27.0479 5.54826 30.6111 5.54826C34.1743 5.54826 37.0628 8.4368 37.0628 12C37.0628 15.5632 34.1743 18.4517 30.6111 18.4517C27.0479 18.4517 24.1593 15.5632 24.1593 12Z" fill="#e0ff00" fill-rule="nonzero" opacity="1" stroke="#000000" stroke-linecap="butt" stroke-linejoin="round" stroke-width="1.80765" vectornator:layerName="Oval 1"/>
+</g>
+</svg>
